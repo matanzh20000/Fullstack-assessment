@@ -29,3 +29,4 @@ This repository contains a set of E2E tests for the official [React.dev](https:/
 3. Open Cypress debugging GUI, and choose "E2E Testing" in your desired browser
    ```bash
    npx cypress open
+4. Run tests in desired test suites through the Cypress GUI 
